@@ -55,7 +55,6 @@ class Numerical():
             self.weights = np.concatenate((np.sort(np.random.random(self.n))[::-1],[1]),axis = 0)
         elif self.weight_param >= 2:
             self.weights = np.concatenate((0.5*np.exp(np.sort(np.random.normal(scale = 1.0,size = self.n)))[::-1],[1]),axis = 0)
-
         if self.price_param == 1:
             #self.prices = np.concatenate((np.sort(np.random.random(self.n)),[0]),axis = 0)
             self.prices = np.concatenate((np.exp(np.sort(np.random.normal(scale = 1.0,size = self.n))),[0]),axis = 0)
