@@ -7,7 +7,7 @@ The package dependencies of the code are latest versions of the following packag
 * `pandas`
 * `gurobipy`
 * `scipy`
-* `Numba`
+* `numba`
 
 
 
