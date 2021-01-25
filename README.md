@@ -20,3 +20,5 @@ The object constructed with `Numerical()` instanciates the random generator of t
 * Other functions are auxiliary and need not be referenced in running the code.
 
 The file `Numericals.py()` can be run as a script to replicate the computational results in the paper *Greedy-Like Algorithms for Dynamic Assortment Planning Under Multinomial Logit Preferences*, A. Aouad, R. Levi and D. Segev (2018) that appeared in Operations Research.
+
+A work-in-progress implementation of a polynomial-time approximation scheme is provided in the file `Ptas.py`.
