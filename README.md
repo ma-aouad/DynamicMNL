@@ -2,7 +2,7 @@ This directory provides an implementation of the algorithms for dynamic assortme
 
 ## Dependencies
 
-The package dependencies of the code are standard versions of the following packages:
+The package dependencies of the code are latest versions of the following packages:
 * `numpy`
 * `pandas`
 * `gurobipy`
