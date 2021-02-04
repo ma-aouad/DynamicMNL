@@ -1,4 +1,4 @@
-This directory provides an implementation of the algorithms for dynamic assortment optimization under the Multinomial logic choice model.
+This directory provides an implementation of the algorithms for dynamic assortment optimization under the Multinomial logit choice model.
 
 ## Dependencies
 
